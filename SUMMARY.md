@@ -56,7 +56,7 @@
     * [Jak To Wyjasnic](wiedza/ksiazki/jak-to-wyjasnic.md)
     * [Krol Darknetu](wiedza/ksiazki/krol-darknetu.md)
     * [Mindfuck](wiedza/ksiazki/mindfuck.md)
-    * [Nienawiść sp. z o.o.](wiedza/ksiazki/Nienawiść%20sp. z o.o..md)
+    * [Nienawiść-sp.-z-o-o](wiedza/ksiazki/Nienawiść-sp.-z-o-o.md)
     * [Pieciodniowy Sprint](wiedza/ksiazki/pieciodniowy-sprint.md)
     * [Rework](wiedza/ksiazki/rework.md)
     * [Sapiens](wiedza/ksiazki/sapiens.md)
@@ -66,3 +66,4 @@
     * [Jak Mowic Zeby Nas Sluchano](wiedza/video/jak-mowic-zeby-nas-sluchano.md)
     * [Krotki Film O Prawdzie I Falszu](wiedza/video/krotki-film-o-prawdzie-i-falszu.md)
   * [Przemyslenia](wiedza/przemyslenia.md)
+* [Digital Garden](digital-garden.md)
