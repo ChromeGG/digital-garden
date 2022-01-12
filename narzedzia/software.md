@@ -1,4 +1,4 @@
-# ⚙️ Software
+# 2️⃣ Software
 
 ## 🐧Ubuntu 20.04 Focal Fossa
 
