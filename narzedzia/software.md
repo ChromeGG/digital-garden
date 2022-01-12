@@ -1,35 +1,18 @@
-# 🖥 Software
+# ⚙️ Software
+## 🐧Ubuntu 20.04 Focal Fossa
 
-FAKE
+Używam domyślnego GNOME, używałem Unity, nie robi mi to wielkiej różnicy. Korzystałem też z Manjaro i Deepin, ale najlepsze wsparcie i najmniej czasu na konfigurowanie różnych bzdetów (mmm Linux ...) zapewniło mi Ubuntu. Połączony z telefonem za pomocą KDE Plasma. Dodane parę dodatków do lepszego copy-paste, obsługi urządzeń I/O, lepszej obsługi workspaceów.
 
-## 💻 ThinkPad T495
+♻️ Dzięki TImeShift mam automatyczne backupy za każdym razem jak bootuje system. Mam pełen obraz zrobiony za pomocą RescueZilla.
 
-Wariant z najlepszą matrycą
+Terminator + ZSH + OMZ + P10K Level = 🚀
 
-## 🖥️ Dell U2722DE + Dell U2722D
+## Visual Studio Code
 
-Dwa monitory ze sprawdzonej przez lata serii. Wersja DE ma bardziej rozbudowany hub. Do monitora z hubem połączone są inne urządzenia.
+Kiedyś wierny fan produktów JetBrains, dzisiaj nie wyobrażam sobie pracy w czymś innym niż VSC. Zainspirowany tym [setupem](https://www.youtube.com/watch?v=LQMeBtnldXU). Zazwyczaj menu boczne też jest wyłączone. Fajny protip z pochowaniem wszystkiego, wymusza nauczenie się skrótów ⌨️ 🧠
 
-## ✈️ Standing desk FLYINGDESK 700
 
-Kupiłem sam stelaż, bo blat nawet na zamówienie był tańszy, a jakość 💯
-
-## 🎧 SteelSeries Arctis 9 Wireless
-
-Wybór padł na nie, ponieważ miały się przydać do połączenia z kompem i PS5 jednocześnie, ale ostatecznie nigdy ich do PS5 nie podłączyłem.
-
-## 🖱️ Logitech MX Master 3
-
-Bezprzewodowy gryzoń.
-
-## ⌨️ Logitech G613
-
-Bezprzewodowy mechanik.
-
-## 🔊 Logitech Z200
-
-Ot zwykłe głośniki, mi tam wystarczają 🤷‍♂️
-
-## 🎙️ Novox NC-1
-
-Na jakimś tanim ramieniu, jak na niską półkę sprawdza się idealnie. Choć gdybym miał wybierać jeszcze raz, wybrałbym coś bez ramienia, typu Yeti Blackout.
+## Inne przydatne dla mnie programy:
+- 🖋️ Obsidian,
+-  🦁 Brave,
+- 🔐 Bitwarden.
