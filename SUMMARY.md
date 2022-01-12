@@ -66,4 +66,4 @@
     * [Jak Mowic Zeby Nas Sluchano](wiedza/video/jak-mowic-zeby-nas-sluchano.md)
     * [Krotki Film O Prawdzie I Falszu](wiedza/video/krotki-film-o-prawdzie-i-falszu.md)
   * [Przemyslenia](wiedza/przemyslenia.md)
-* [Digital Garden](digital-garden.md)
+* [🗺️-digital-garden](🗺️-digital-garden.md)
