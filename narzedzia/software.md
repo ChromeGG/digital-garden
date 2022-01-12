@@ -1,5 +1,7 @@
 # 2️⃣ Software
 
+Example
+
 ## 🐧Ubuntu 20.04 Focal Fossa
 
 Używam domyślnego GNOME, używałem Unity, nie robi mi to wielkiej różnicy. Korzystałem też z Manjaro i Deepin, ale najlepsze wsparcie i najmniej czasu na konfigurowanie różnych bzdetów (mmm Linux ...) zapewniło mi Ubuntu. Połączony z telefonem za pomocą KDE Plasma. Dodane parę dodatków do lepszego copy-paste, obsługi urządzeń I/O, lepszej obsługi workspaceów.
@@ -15,5 +17,5 @@ Kiedyś wierny fan produktów JetBrains, dzisiaj nie wyobrażam sobie pracy w cz
 
 ## Inne przydatne dla mnie programy:
 - 🖋️ Obsidian,
--  🦁 Brave,
+- 🦁 Brave,
 - 🔐 Bitwarden.
