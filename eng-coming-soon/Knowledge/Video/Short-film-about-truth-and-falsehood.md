@@ -1,9 +1,9 @@
 ---
-title: ⭐ Short film about
+title: ⭐ Short film about truth and falsehood
 description: Darek Hoffmann, SciFun
 ---
 
-# ⭐ Krótki film o prawdzie i fałszu
+# ⭐ Short film about truth and falsehood
 
 {% embed url="https://www.youtube.com/watch?feature=youtu.be&v=T1vW8YDDCSc" %}
 

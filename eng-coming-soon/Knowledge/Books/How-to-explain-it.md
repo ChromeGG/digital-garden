@@ -1,8 +1,9 @@
 ---
+title: How to Explain it?
 description: Kacper Pitala
 ---
 
-# Jak to wyjaśnić?
+# How to Explain it?
 
 Lekcje płynące z tego są dość naukowe, ale ciekawe. Część z nich brzmi jak banalne fakty, ale musiały mnie zaskoczyć na pewien sposób, że je tutaj umieściłem.
 

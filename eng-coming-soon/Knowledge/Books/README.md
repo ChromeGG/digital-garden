@@ -1,5 +1,4 @@
 ---
-title: 📚 Books
 description: Czyli prosty sposób, żeby szybko powiększać wiedzę z danego tematu.
 ---
 

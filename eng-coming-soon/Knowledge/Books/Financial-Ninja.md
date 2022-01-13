@@ -1,4 +1,5 @@
 ---
+title: ⭐ 21 Financial Ninja
 description: Michał Szafrański
 ---
 # ⭐ Financial Ninja

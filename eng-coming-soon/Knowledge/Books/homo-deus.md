@@ -1,4 +1,5 @@
 ---
+title: ⭐ Homo deus
 description: Yuval Noah Harari
 ---
 

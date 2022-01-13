@@ -1,6 +1,2 @@
----
-title: 📼 Video
----
-
 # 📼 Video
 

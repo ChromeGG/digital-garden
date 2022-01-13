@@ -1,4 +1,5 @@
 ---
+title: The Century of the Detective
 description: Jürgen Thorwald
 ---
 

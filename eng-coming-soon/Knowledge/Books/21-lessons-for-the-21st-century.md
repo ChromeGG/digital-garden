@@ -1,4 +1,5 @@
 ---
+title: ⭐ 21 Lessons for the 21st Century
 description: Yuval Noah Harari
 ---
 # ⭐ 21 Lessons for the 21st Century
