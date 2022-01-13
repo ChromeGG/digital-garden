@@ -1,8 +1,8 @@
 ---
-title: ⭐ 21 Financial Ninja
+title: ⭐ Financial Ninja
 description: Michał Szafrański
 ---
 # ⭐ Financial Ninja
 
-**Czytałem pierwszą edycję, cześć informacji mogła się przedawnić i nie sprawdzi się w dzisiejszych czasach**
-Książka po której zacząłem się interesować finansami osobistymi i tematami wokół nich związanymi. Ogarnąłem dlaczego bogaci są bogaci, a biedni — biedni; co powinienem robić, żeby zwiększać dochody.
+**I reed the first edition only. I am not sure that it's still valid**
+Since this book, I started my financial education. There are many tips about education, money & monetary system, work, taxes, investments etc.

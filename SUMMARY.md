@@ -13,7 +13,7 @@
     - [Books](eng-coming-soon/Knowledge/Books/README.md)
       * [⭐ 21 Lessons for the 21st Century](eng-coming-soon/Knowledge/Books/21-lessons-for-the-21st-century.md)
       * [American Kingpin](eng-coming-soon/Knowledge/Books/american-kingpin.md)
-      * [⭐ 21 Financial Ninja](eng-coming-soon/Knowledge/Books/Financial-Ninja.md)
+      * [⭐ Financial Ninja](eng-coming-soon/Knowledge/Books/Financial-Ninja.md)
       * [Hate Inc](eng-coming-soon/Knowledge/Books/hate-inc.md)
       * [⭐ Homo deus](eng-coming-soon/Knowledge/Books/homo-deus.md)
       * [How To Explain It](eng-coming-soon/Knowledge/Books/How-to-explain-it.md)
