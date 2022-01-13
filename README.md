@@ -2,17 +2,17 @@
 description: Mój mózg jako open source
 ---
 
-# 🗺️ Digital Garden
+# 🏡 Digital Garden
 
 Digital garden to coś na przecięciu bloga i własnych notatek. Wiele rzeczy napisane jest chaotycznie, ponieważ jest to głównie miejsce dla mnie, gdzie mogę utrwalać swoją wiedzę i spostrzeżenia.
 
 Znajdziesz tu wiele rzeczy takich jak:
 
 * [Książki](wiedza/ksiazki/) + notatki, które zacząłem robić od VII 2021 r. by zapamiętywać z nich coś więcej niż wygląd okładki,
-* [Sprzęt](narzedzia/) na którym pracuję,
+* [Sprzęt](eng-coming-soon/Tools/) na którym pracuję,
 * Osobiste rzeczy jak [podsumowania](osobiscie/roczne-podsumowania/), które robię co roku.
 
-Jeśli masz mało czasu, a chciałbyś wyciągnąć stąd coś wartościowego, to rzuć okiem na materiały oznaczone gwiazdką (⭐), szczególnie na [Sapiens](wiedza/ksiazki/sapiens.md) i [Krótki film o prawdzie i fałszu](wiedza/video/krotki-film-o-prawdzie-i-falszu.md).
+Jeśli masz mało czasu, a chciałbyś wyciągnąć stąd coś wartościowego, to rzuć okiem na materiały oznaczone gwiazdką (⭐), szczególnie na [Sapiens](wiedza/ksiazki/sapiens.md) i [Krótki film o prawdzie i fałszu](eng-coming-soon/Knowledge/Video/krotki-film-o-prawdzie-i-falszu.md).
 
 ## Cały czas rozwijam to miejsce.
 
