@@ -1,8 +1,9 @@
 ---
+title: 🍔 Tech stack
 description: Quick review. It could be bigger at the moment.
 ---
 
-# 🍔 Stack technologiczny
+# 🍔 Technological stack
 
 
 
