@@ -9,7 +9,8 @@ description: Moje opinie na wybrane tematy związane z programowaniem
 
 ## ORMy
 
-Nie przepadam za rozbudowanymi ORMami. Wolę query buildery, są bliżej SQLa, a co za tym idzie, można szybko zacząć korzystać z potęgi SQL. Ludzie często wybierają ORM bo nie chcą tracić czasu na SQL. Do apki typu hello world to wystarczy, ale gdy chcemy wyciągnąć większą ilość danych (i nie daj Boże przeliczyć coś *w locie*) to zaczynają sie problemy. Więc deweloperzy sięgają po HQL czy jakiś inny badziew dołączany do ORM'a. A finalnie i tak mogą nie osiągnąć tego co chcieli. Uczą się złej rzeczy. 
+Nie przepadam za rozbudowanymi ORMami. Wolę query buildery, są bliżej SQLa, a co za tym idzie, można szybko zacząć korzystać z potęgi SQL. Ludzie często wybierają ORM, bo nie chcą tracić czasu na SQL. Do apki typu hello world to wystarczy, ale gdy chcemy wyciągnąć większą ilość danych (i nie daj Boże przeliczyć coś *w locie*) to zaczynają sie problemy. Więc deweloperzy sięgają po HQL czy jakiś inny badziew dołączany do ORM'a. A finalnie i tak mogą nie osiągnąć tego co chcieli. Query nie zwraca tego co powinno, performance leży, a wygenerowany SQL to crap. Nie uczcie się ORMów, uczcie się SQLa!
+
 Moim ulubionym combo jest [knex](https://knexjs.org/) + [objection](https://vincit.github.io/objection.js/). Moje zdanie praktycznie pokrywa się z tym [wpisem](https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5/).
 
 ## TS
@@ -40,7 +41,7 @@ Obsługa błędów powinna być  first-class citizen w każdej apce. Szczególni
 
 > premature optimization is the root of all evil
 
-Ten cytat Tony Hoare'a, pupularyzowany przez Donalda Knutha to jedna z najważniejszych dobrych praktyk. Optymalizacja wydajności nie jest łatwa. Przy optymalizacji nie można opierać się na intuicji. *O teraz się chyba szybciej załadowało. Działa.* Zawsze trzeba mieć jakiś miernik. Dla frontendu to mogą być devtoolsy i lighthouse, dla backendu, w zależności od problemu, średni czas requestu dla wielu wywołań, jakieś dane z dashboardu Kubernetesa.
+Ten cytat Tony Hoare'a, pupularyzowany przez Donalda Knutha, to jedna z najważniejszych dobrych praktyk. Optymalizacja wydajności nie jest łatwa. Przy optymalizacji nie można opierać się na intuicji. *O teraz się chyba szybciej załadowało. Działa.* Zawsze trzeba mieć jakiś miernik. Dla frontendu to mogą być devtoolsy i lighthouse, dla backendu, w zależności od problemu, średni czas requestu dla wielu wywołań, jakieś dane z dashboardu Kubernetesa.
 
 ## Battle-tested solutions
 
@@ -48,6 +49,6 @@ Jaranie sie nowymi trendami nie jest dobre. Podoba mi się stwierdzenie, że za 
 
 ## Motywacja
 
-Przespanie się z problemem, pójście pobiegać, rozmowa z innymi devami - to wszystko spoko, ale nic tak nie motywuje jak Steve Ballmer skandujący: DEVELOPERS, DEVELOPERS, DEVELOPERS... !
+Przespanie się z problemem, pójść pobiegać, rozmowa z innymi devami - to wszystko spoko, ale nic tak nie motywuje jak Steve Ballmer skandujący: DEVELOPERS, DEVELOPERS, DEVELOPERS... !
 
 {% embed url="https://www.youtube.com/watch?v=Vhh_GeBPOhs" %}
