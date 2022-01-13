@@ -1,6 +1,6 @@
 ---
-title: 👨‍💻 Filozofia programowania
-description: Moje opinie na wybrane tematy związane z programowaniem
+title: 👨‍💻 Programing philosophy
+description: My opinions
 ---
 
 # ✨ Programming Philosophy

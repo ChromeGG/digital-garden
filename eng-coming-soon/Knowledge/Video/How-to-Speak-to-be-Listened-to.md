@@ -1,8 +1,9 @@
 ---
+title: How to speak to be listened to
 description: Jerzy Bralczyk
 ---
 
-# Jak mówić, żeby nas słuchano?
+# How to speak to be listened to?
 
 {% embed url="https://www.youtube.com/watch?feature=youtu.be&v=TG4ZAGnlPOY" %}
 
