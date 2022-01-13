@@ -1,5 +1,5 @@
 ---
-description: Yuval Noah Harari
+description: Nick Bilton
 ---
 
 # Król darknetu

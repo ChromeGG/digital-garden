@@ -1,4 +1,5 @@
 ---
+title: Mindfuck
 description: Christopher Wylie
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: Pięciodniowy sprint
 description: Knapp Jake, Zeratsky John, Kowitz Braden
 ---
 

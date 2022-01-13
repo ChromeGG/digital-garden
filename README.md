@@ -1,4 +1,5 @@
 ---
+title: 🏡 Digital Garden
 description: Mój mózg jako open source
 ---
 

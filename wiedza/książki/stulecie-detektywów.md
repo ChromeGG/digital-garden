@@ -1,4 +1,5 @@
 ---
+title: Stulecie detektywów
 description: Jürgen Thorwald
 ---
 

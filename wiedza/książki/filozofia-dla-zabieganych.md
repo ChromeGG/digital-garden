@@ -1,4 +1,5 @@
 ---
+title: Filozofia dla zabieganych
 description: Thomson Jonny
 ---
 

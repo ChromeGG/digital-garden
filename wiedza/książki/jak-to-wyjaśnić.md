@@ -1,4 +1,5 @@
 ---
+title: Jak to wyjaśnić?
 description: Kacper Pitala (ten mądry z tvgry)
 ---
 
