@@ -1,9 +1,9 @@
 ---
-title: 🏡 Digital Garden
+title: 🏡 Polski
 description: Mój mózg jako open source
 ---
 
-# 🏡 Digital Garden
+# 🏡 Polski
 
 Digital garden to coś na przecięciu bloga i własnych notatek. Wiele rzeczy napisane jest chaotycznie, ponieważ jest to głównie miejsce dla mnie, gdzie mogę utrwalać swoją wiedzę i spostrzeżenia.
 
