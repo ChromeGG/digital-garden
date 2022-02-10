@@ -67,4 +67,4 @@
       * [Jak mówić, żeby nas słuchano?](polski/Wiedza/video/jak-mówić-żeby-nas-słuchano.md)
       * [⭐ Krótki film o prawdzie i fałszu](polski/Wiedza/video/krótki-film-o-prawdzie-i-fałszu.md)
     * [Przemyslenia](polski/Wiedza/przemyslenia.md)
-  * [🏡 Polski](polski/README.md)
+  * [🏡 Digital Garden](polski/README.md)

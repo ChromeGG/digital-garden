@@ -1,0 +1,22 @@
+{
+  "name": "digital-garden",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TkaczykAdam/digital-garden.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TkaczykAdam/digital-garden/issues"
+  },
+  "homepage": "https://github.com/TkaczykAdam/digital-garden#readme",
+  "dependencies": {
+    "gitbook-plugin-summary": "^1.1.0"
+  }
+}
