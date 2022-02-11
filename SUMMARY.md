@@ -63,6 +63,7 @@
       * [⭐ Sapiens](polski/Wiedza/książki/sapiens.md)
       * [Stulecie chirurgów](polski/Wiedza/książki/stulecie-chirurgów.md)
       * [Stulecie detektywów](polski/Wiedza/książki/stulecie-detektywów.md)
+      * [Szczerze](polski/Wiedza/książki/szczerze.md)
     - [Video](polski/Wiedza/video/README.md)
       * [Jak mówić, żeby nas słuchano?](polski/Wiedza/video/jak-mówić-żeby-nas-słuchano.md)
       * [⭐ Krótki film o prawdzie i fałszu](polski/Wiedza/video/krótki-film-o-prawdzie-i-fałszu.md)
