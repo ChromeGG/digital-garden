@@ -5,7 +5,7 @@ description: Yuval Noah Harari
 
 # ⭐ Homo deus
 
-Kontynuacja rozważań zawartych w _Sapiens_. Praktycznie w każdym podrozdziale odkrywałem coś nowego, wartego zapamiętania. Stąd tak dużo notatek. Ta książka naprawdę zna odpowiedzi na wręcz memiczne pytania, kim jesteśmy? Dokąd zmierzamy?\*
+Kontynuacja rozważań zawartych w _Sapiens_. Praktycznie w każdym podrozdziale odkrywałem coś nowego, wartego zapamiętania. Stąd tak dużo notatek. Ta książka naprawdę zna odpowiedzi na wręcz memiczne pytania, *kim jesteśmy? Dokąd zmierzamy?*
 
 ## Część I — Homo Sapiens podbija świat
 

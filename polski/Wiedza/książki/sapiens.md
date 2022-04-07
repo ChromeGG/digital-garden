@@ -5,7 +5,7 @@ description: Yuval Noah Harari
 
 # ⭐ Sapiens
 
-Gdybym miał wskazać komuś jedną jedyną książkę, którą miałby przeczytać, wskazałbym Sapiens. W niezwykle namacalny sposób pokazuje tak trudne zagadnienia jak religie, politykę, szczęście.
+Gdybym miał wskazać komuś jedną jedyną książkę, którą miałby przeczytać, wskazałbym Sapiens. W niezwykle namacalny sposób pokazuje tak trudne zagadnienia jak religie, politykę, szczęście. Najlepsza książka jaką w życiu czytałem.
 
 **Lekcje:**
 - Ludzie potrafią współpracować ze sobą dzięki mitom (wspólnym wierzenią, np. w religie czy państwo),
