@@ -59,8 +59,70 @@ Po przeczytaniu książek Yuval Noah Harariego, w wielu rzeczach (książki, zac
 - teza o "zderzeniu cywilizacji", czyli odmienne cywilizacje jak Europejska czy Muzułmańska rywalizują między sobą na tej samej zasadzie jak gatunki i dobór naturalny. Wygrywa najsilniejsza, najbardziej nastawiona na przetrwanie. Ale to nie ma przełożenia w praktyce. Ludzkie społeczności nie mają podłoża w genetyce i zazwyczaj trwają kilka lat (Niemcy jako Cesarstwo, III Rzesza, NRD, Zjednoczone Niemcy Demokratyczne),
 - w średniowieczu roiło się od ustrojów politycznych na całym świecie. Od pozostałości zbieraczy-łowców przez miasta-państwa po rozległe imperia. Teraz praktycznie wszystko zunifikowane (ONZ, prawa człowieka, hymny, flagi),
 - ISIS niszczyło wszelkie oznaki innych cywilizacji (archeologiczne stanowiska itp.). Jednak gdy dotarli pod lokalne miasto i znaleźli w nim dolary — symbol amerykańskiego imperium — nie palili ich. Siła $ jest ponad wszelkimi podziałami.
-- prawie wszyscy wyznajemy tą samą naukę, medycynę, ekonomie. Określenie tożsamości narodowej na podstawie tego co nas łączy jest błędem. O wiele lepszym jest to co nas dzieli. W 1940 Niemcy wyznawały całkowicie inne wartości i toczyli o nie wojny. To doskonale definiowało ich jako Europejczyków w tym czasie (bo zbieracz-łowca z plemienia !Kung nie widziałby sensu w tym działaniu),
+- prawie wszyscy wyznajemy tą samą naukę, medycynę, ekonomie. Określenie tożsamości narodowej na podstawie tego, co nas łączy jest błędem. O wiele lepszym jest to, co nas dzieli. W 1940 Niemcy wyznawały całkowicie inne wartości i toczyli o nie wojny. To doskonale definiowało ich jako Europejczyków w tym czasie (bo zbieracz-łowca z plemienia !Kung nie widziałby sensu w tym działaniu),
 
-### Nacjonalizm
+### VII Nacjonalizm
 
-// TODO 
+- nacjonalizm, czy się komuś podoba czy nie, jest outdated. "Przyjazna sieć odgrodzonych od siebie fortec, wielokulturowości, bez globalnych elit, ale z współpracą i handlem". Odgrodzone od siebie fortece żadko bywają sie przyjazne i bez wspólnych wartości nie potrafią się dogadać. Już na tym poziomie nacjonalizm odpada, dalsze umacnianie tylko pogłębia te problemy,
+- 3 wspólne wyzwania, które mają w dupie nacjonalizm:
+	- wyzwanie jądrowe,
+	- ekologiczne
+	- techniczne
+Nacjonalizm nie potrafi odpowiedzieć na w.w. wyzwania.
+^ Prze to, że te wyzwania postępuja latami, ludzie nie boją się ich tak jak wojny jądrowej
+
+> nieprzypadkowo sceptycyzm w sprawie zmian klimatu jest na ogół domeną nacjonalistycznej prawicy [...]. Ponieważ nacjonalizm nie daje odpowiedzi na problemy globalnego ocieplenia. Niektórzy nacjonalistycznie politycy wolą wierzyć, że ten problem w ogóle nie istnieje,
+
+> Obecnie mamy globalną naukę, globalną ekologię, globalną ekonomię, ale nadal tkwimy w narodowej polityce
+
+### VIII Religia
+
+- religia straciła większość swojego *terytorium*. Kiedyś zajmowała się medycyną, fizyką (prawa natury), budownictwem, sztuką, a nawet ekonomią. Kapłani potrafili tylko coraz lepiej *tłumaczyć* dlaczego taniec deszczu nie zadziałał. Brak tam nauki,
+- nacjonalizm to wiara równie potężna jak religia. Japonia wypracowała sobie idealnych wyznawców już podczas II wojny światowej (kamikaze),
+
+> Nieważne jak bardzo archaiczna może wydawać się dana religia - dzięki odrobinie wyobraźni i reinterpretacji niemal zawsze da się ją pogodzić z najnowszymi gadżetami i instytucjami,
+
+Ex. Japonia - sintaizm, Izrael - Judaizm, Polska - Chrześcijaństwo, kraje arabskie...
+
+- religia to służąca nacjonalizmu. Tak jak nacjonalizm nie potrafi odpowiedzieć na 3 wielkie zagrożenia, religia rówież nie stanowi tu rozwiązania. Popi nadal będą usprawiedliwiać działania Rosji, bo dobro sprawy rosyjskiej > reszta świata. Judaizm i Chrześcijaństwo głoszą miłość do drugiego, ale bardziej do tego z *moim* wyznaniem. *Przecież jesteśmy narodem wybranym przez Boga, a zatem co dobre dla naszego narodu, jest także miłe Bogu*.
+	A to stanowi ogromny problem, bo nie pomaga w zwalczaniu **globalnych** problemów, a dzieli je na często wrogie obozy.
+
+### IX Imigracja
+- w pełni otwarte granice to trudna sprawa. Szwedzi ciężko zapracowali na bogate, liberalne państwo i ponieśli ofiary na jego rzecz. Jeśli Syryjczycy nie zdołali tego zrobić, to nie jest wina Szwedów. To, że Szwedzi ich przyjęli, to dla nich przywilej. Ale to nie może przerodzić się w dług. USA lub Polska nie może usprawiedliwiać antysemityzmu, bo *w 1910 przyjeliśmy was do siebie, wyświadczając pradziadom przysługę, dlatego teraz mamy prawo decydować jak z wami obchodzić*
+- paradoks: Europa ceni tolerancję, więc powinna wpuszczać innych do siebie. Tylko co jeśli Ci inni są nietolerancyjni, homofoboczni?
+- Europa sama w sobie jest tak różnorodna, że ciężko ustalić tożsamość eurpejską. Ciężkko wpuszczać do swojego kraju i oczekiwać asymiliacji do jakiegoś poziomu, skoro sami nie wiemy jak ten poziom ma wyglądać,
+- cała emigracja sprowadza się do trzech kwestii:
+	1. Kraj pozwala na napływ imigrantow (których i ile?),
+	2. W zamian oni przyjmują nasze wartości i normy. Asymilują sie, pracują, żyją ...
+	3. W zamian za to my uznajemy *ich* za *naszych*
+Spory tworzą się najczęściej pomiędzy 2. a 3. punktem. *Oni* nie asymilują się, dlatego (dla zwolenników imigracji słowo *dlatego* zamienić na *bo*) my ich nie uznajemy. 🔁
+- tradycyjny rasizm już praktycznie nie istnieje. Nauka udowodniła, że kolor skóry nie ma znaczenia. Przerodził się w razizm kulturowy.
+
+### X Terroryzm
+- Od 2001 r. terroryści zabijają ~50 osób w UE, ~10 w USA, ~7 w Chinach. W wypadkach drogowych ginie: UE: 80 k, USA: 40 k, Chiny: 27 k.
+- Skuteczne zapobieganie przemocy we współczesnych państwach sprawia, że nawet niewielki akt terroryzmu jest czymś *niezwykłym*
+
+### XI Wojna
+- Bliski Wschód to ring świata,
+- W XXI wieku najskuteczniejszą strategią wojenną jest nieangażowanie się w wojny (najlepszy wzrost gosp. itd.). (Przykład?: Chiny a Izrael),
+- Kiedyś komunizm *miał coś do zaoferowania* innym krajom (np. Polsce czy Rosji). Teraz autorytarny nacjonalizm rosyjski tylko podsyca polską autorytarność.
+
+
+### XII Pokora
+- Chrześcijaństwo, judaizm, muzułmanie — wszyscy oni uważają, że jeśli przestaną chodzić do kościoła, studiować święte pisma, modlić się do Mahometa, to piksel w galaktyce zwany Ziemią obróci się w nicość,
+- Wszystkie w. w. religie miały niewielki wpływ na rozwój ludzkości, jeśli popatrzy się z perspektywy tysięcy lat. Ludzie bez tego zasiedlili planetę, rozwinęli rolnictwo, zbudowali miasta, wynaleźli pismo i pieniądze, wystrzelili człowieka w kosmos,
+- Moralność nie bierze się z 10 przykazań, została wypracowana w procesie ewolucji. Przykład: małe wilki nie bawią się z tym, co za mocno gryzie, niepełnosprawna małpka w ZOO broniona przez lidera stada,
+- Monoteistyczne religie z góry zakładają, że to one są tymi jedynymi słusznymi, a ich Bóg jest bogiem jedynym i domagają się powszechnego posłuszeństwa. To wybiło różnorodność religii i szerzyło dyskryminację religijną,
+- Einstein i inni żydowscy nobliści byli wybitni, nie dlatego, że wyznawali judaizm. Raczej byli świeccy. Ortodoksy nie dostają nobli,
+
+> Wiele religii wychwala wartość pokory — a zarazem uważają się za coś najważniejszego na świecie [...] Lepiej by było, gdyby wszyscy wyznawcy poważniej potraktowali pokorę.
+
+### XIII Bóg
+// TODO
+
+### XXI Medytacja
+
+- cierpienie czy miłość - to wszystko są wzory złożone z konkretnych wzorców w naszym mózgu,
+- z biegiem czsu, mimo że ludzie stawali się oraz inteligentniejsi, inni nauczyli się wpływać na nich jeszcze bardziej (TV, internet). Zwodzenie ludzi w niezwykle skomplikowanym świecie staje się coraz łatwiejsze. AI może doprowadzić ten proces do końca.
+
+

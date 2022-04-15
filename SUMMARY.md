@@ -58,6 +58,7 @@
       * [Krol Darknetu](polski/Wiedza/książki/krol-darknetu.md)
       * [Mindfuck](polski/Wiedza/książki/mindfuck.md)
       * [Nienawiść-sp.-z-o-o](polski/Wiedza/książki/Nienawiść-sp.-z-o-o.md)
+      * [Pamięć Nieulotna](polski/Wiedza/książki/pamięć-nieulotna.md)
       * [Pięciodniowy sprint](polski/Wiedza/książki/pięciodniowy-sprint.md)
       * [Rework](polski/Wiedza/książki/rework.md)
       * [⭐ Sapiens](polski/Wiedza/książki/sapiens.md)
