@@ -118,6 +118,24 @@ Spory tworzą się najczęściej pomiędzy 2. a 3. punktem. *Oni* nie asymilują
 > Wiele religii wychwala wartość pokory — a zarazem uważają się za coś najważniejszego na świecie [...] Lepiej by było, gdyby wszyscy wyznawcy poważniej potraktowali pokorę.
 
 ### XIII Bóg
+- żeby być moralnym, nie trzeba wierzyć w żadne nadprzyrodzone moce/istoty. Chrześcijanie kierują się milością do bliźniego, ale nie wierzą w hinduski panteon, muzułmanie cenią uczcuwiść, a w świectkich Czechach nie występuje większa przemoc niż w Polsce,
+
+### Sekularyzm
+- im opowieść jest mniej prawdziwa tym więcej wiary trzeba, by ją wyznawać,
+- sekularyzm za najważniejsze wartości wyznaję **prawdę, współczucie, równość, wolność, odwagę, odpowiedzialność**.
+	- Prawda != przekonanie! Nie bierze prawdy z świętej księgi, grupy, bytu. prawda pochodzi od obiektywnej rzeczywistości, czyli szkieletów dinozaurów, zdjęć odległych galaktyk, tabelach statystycznych,
+	- współczcie jest oparte na zrozumieniu cierpienia,
+	- dwa poprzednie są źródłem równości. *Cierpienie to cierpienie, bez względu na to kto go dostarcza. Wiedza to wiedza, bez względu na to kto jej dochodzi.*
+	- wolność - nie przypisują władzy księdzu czy przewódcy,
+	- odwaga - szczególnie przed przyznaniem się do niewiedzy. Brak lęku kwestionowania własnych przekonań,
+	- odpowiedzialość- sami musimy opiekować się swoim światem.
+- świecka edukacja nie oznacza, że trzeba skończyć z wyznaniami. Pomaga odróżnić prawdę od wiary, współczuć każdej osobie itp.
+
+> W ludziach, którzy unikają zabijania tylko latego, że *bóg tak powiedział*, jest coś mocno niepokojącego, wręcz niebezpiecznego. **Motywem ich działania jest posłuszeństwo, nie współczucie**. Co jeśli dojdą do przekonania, że ich bóg nakazuje zabijać heretyków, cudzołożników albo cudzoziemców?
+
+**- sekularyzm jest trudniejszy, bo opiera się na nauce, a ta działa w skomplikowanym świecie. Często nie ma prostych odpowiedzi typu *Bóg to pochwala*, *w Biblii jest napisane, że ...* To stawia poprzeczkę bardzo wysoko, dla wielu ludzi za wysoko.**
+
+### Wiedza
 // TODO
 
 ### XXI Medytacja
